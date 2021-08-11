@@ -1,6 +1,7 @@
 # CubiclFirstProject
 
 > React Native Eğitimi 2: React Native'de Genel Yapı
+>
 > Eğitmen: Çağlar Keskin
 >
 > > [Youtube](https://www.youtube.com/playlist?list=PLVC2E6Si8ML4g7yOhVtVYxEq1ArFhiNN-)
