@@ -130,7 +130,7 @@ const styles = StyleSheet.create({
   buttonText: {
     color: '#ffde66',
     fontWeight: 'bold',
-    fontSize: 20,
+    fontSize: 23,
   },
   bottomSection: {
     width: '80%',
@@ -143,6 +143,7 @@ const styles = StyleSheet.create({
   bottomText: {
     color: 'white',
     fontWeight: 'bold',
+    fontSize: 17,
   },
 });
 
